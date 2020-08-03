@@ -1,4 +1,4 @@
-# Monte-Carlo-Toolkit
+# Monte-Carlo-Visualizations
 Animated Monte Carlo Simulation and Visualizations 
 
 Built so far:
